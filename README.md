@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_1.gif?raw=true" width="100"/>
+</div>
 <!--
 **juldpnt/juldpnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
