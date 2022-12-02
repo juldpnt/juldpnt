@@ -9,9 +9,11 @@
   <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_3.gif?raw=true" width="300"/>
 </div>
 <br/>
-<p align = "center"> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
-<p align = "center"> I also learn low or high level languages to improve my simulations realized on graphic engines </p>
-
+<div align="center">
+  <p> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
+  <p> I also learn low or high level languages to improve my simulations realized on graphic engines </p>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/network2.png?raw=true" width="50%"/>
+</div>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
