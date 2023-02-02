@@ -12,8 +12,14 @@
 <div align="center">
   <p> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
   <p> I also learn low or high level languages to improve my simulations realized on graphic engines </p>
-   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="75%"/>
+   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="100%"/>
+    <br/>
+    <p> Here is a network using the data of the votes of France's deputes, you can find more on my repo </p>
+    <br/>
   <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality.png?raw=true" width="50%"/>
+    <br/>
+    <p> Here is a network of the co-occurences of characters in the Hobbit, you can find more on my repo </p>
+    <br/>
 </div>
 <br/>
 <h3 align="center">Languages and Tools:</h3>
