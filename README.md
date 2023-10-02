@@ -5,14 +5,13 @@
 <br/>
 <div align="center">
   <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_1.gif?raw=true" width="300"/>
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_2.gif?raw=true" width="300"/>
   <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_3.gif?raw=true" width="300"/>
 </div>
 <br/>
 <div align="center">
   <p> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
   <p> I also learn low or high level languages to improve my simulations realized on graphic engines </p>
-   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="100%"/>
+   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="50%"/>
     <br/>
     <p> Here is a network using the data of the votes of France's deputes, you can find more on my repo </p>
     <br/>
