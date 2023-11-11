@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jules Dupont</h1>
 
-<h3 align="center">An agricultural engineering student with a passion for computer science and emerging behaviors</h3>
+<h3 align="center">An agricultural engineering student with a passion for computer science and emerging behaviours </h3>
 <br/>
 <div align="center">
   <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_1.gif?raw=true" width="300"/>
@@ -10,9 +10,9 @@
 <br/>
 <div align="center">
   <p> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
-  <p> I also learn low or high level languages to improve my simulations realized on graphic engines </p>
+  <p> I also learn low or high-level languages to improve my simulations realized on graphic engines </p>
     <br/>
-    <p> Here is a network using the data of the votes of France's deputes and a network of the co-occurences of characters in the Hobbit, you can find more in my repos </p>
+    <p> Here is a network using the data of the votes of France's deputies and a network of the co-occurrences of characters in the Hobbit, you can find more in my repos </p>
     <br/>
   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="30%"/>
   <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality.png?raw=true" width="30%"/>
