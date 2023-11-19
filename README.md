@@ -14,8 +14,8 @@
   <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_3.gif?raw=true" width="30%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="30%"/>
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality_compressed.png?raw=true" width="30%"/>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes_compressed.png?raw=true" width="30%"/>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality.png?raw=true" width="30%"/>
   <p> Network using data of France's deputies and co-occurrences of characters in the Hobbit</p>
 </div>
 
