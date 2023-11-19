@@ -1,23 +1,24 @@
 
-<h1 align="center">Hi 👋, I'm Jules Dupont</h1>
+<h3 align="center">Bioscience Engineer Student | Computational Biology | Data science | Volunteer @<a href="pyronear.org">Pyronear</a></h2>
 
-<h3 align="center">An agricultural engineering student with a passion for computer science and emerging behaviours </h3>
 <br/>
-<div align="center">
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_1.gif?raw=true" width="300"/>
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_3.gif?raw=true" width="300"/>
+<div>
+  <p> 🎓 Currently learning tools to practice data analysis, through my courses and personal activities </p>
+  <p> ✍️ Curious about technology and its applications in the world </p>
+  <p> 🌱 Volunteer in the risk team of Pyronear, a non-profit organization that aims to protect forests from wildfires </p>
+  <p> 📄 Checkout my public repos, mostly python experiments and data analysis </p>
 </div>
-<br/>
+<br>
 <div align="center">
-  <p> I am currently learning tools to practice data analysis, through my courses and personal activities </p>
-  <p> I also learn low or high-level languages to improve my simulations realized on graphic engines </p>
-    <br/>
-    <p> Here is a network using the data of the votes of France's deputies and a network of the co-occurrences of characters in the Hobbit, you can find more in my repos </p>
-    <br/>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_1.gif?raw=true" width="30%"/>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/gol_3.gif?raw=true" width="30%"/>
+</div>
+<div align="center">
   <img src="https://github.com/juldpnt/juldpnt/blob/main/deputes.png?raw=true" width="30%"/>
-  <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality.png?raw=true" width="30%"/>
+  <img src="https://github.com/juldpnt/juldpnt/blob/main/centrality_compressed.png?raw=true" width="30%"/>
+  <p> Network using data of France's deputies and co-occurrences of characters in the Hobbit</p>
 </div>
-<br/>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
