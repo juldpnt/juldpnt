@@ -1,12 +1,9 @@
-
-<h3 align="center">Bioscience Engineer Student | Computational Biology | Data science | Volunteer @<a href="pyronear.org">Pyronear</a></h2>
+<
+<h3 align="center"> Research Data Scientist | PhD student • ML • AI • Imaging in Oncology | Computational Biology | Volunteer @<a href="pyronear.org">Pyronear</a></h2>
 
 <br/>
 <div>
-  <p> 🎓 Currently learning tools to practice data analysis, through my courses and personal activities </p>
-  <p> ✍️ Curious about technology and its applications in the world </p>
   <p> 🌱 Volunteer in the risk team of Pyronear, a non-profit organization that aims to protect forests from wildfires </p>
-  <p> 📄 Checkout my public repos, mostly python experiments and data analysis </p>
 </div>
 <br>
 <div align="center">
