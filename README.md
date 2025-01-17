@@ -1,9 +1,8 @@
-<
-<h3 align="center"> Research Data Scientist | PhD student • ML • AI • Imaging in Oncology | Computational Biology | Volunteer @<a href="pyronear.org">Pyronear</a></h2>
+<h3 align="center"> Research Data Scientist @<a href="https://www.gustaveroussy.fr/">Gustave Roussy</a> <br> PhD student @<a href="https://www.biomaps.universite-paris-saclay.fr/">BioMaps</a> <br> ML • AI • Imaging in Oncology • Computational Biology<h3>
 
 <br/>
 <div>
-  <p> 🌱 Volunteer in the risk team of Pyronear, a non-profit organization that aims to protect forests from wildfires </p>
+  <p> 🌱 Volunteer in the risk team of @<a href="pyronear.org">Pyronear</a>, a non-profit organization that aims to protect forests from wildfires </p>
 </div>
 <br>
 <div align="center">
